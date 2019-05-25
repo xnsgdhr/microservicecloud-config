@@ -8,5 +8,5 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: eureka7001.com:7001/eureka
+      defaultZone: eureka7001.com:7001/eureka/testconfig
 #请保存为UTF-8格式
